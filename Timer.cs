@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour {
 		
 		if (timer >= endGameTimer) 
 		{
-			// Your Condition
+			/* TODO */
 		}
 	}
 }
